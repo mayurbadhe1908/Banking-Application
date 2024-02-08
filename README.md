@@ -1,7 +1,7 @@
 # Banking-Application
 Banking Application with springboot, hibernate and restful API's with Mysql databse
 
-Modules & functinalities :-
+Modules & functionalities :-
 
 1. create account
 2. get account by id
