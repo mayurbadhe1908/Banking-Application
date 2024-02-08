@@ -2,6 +2,8 @@
 Banking Application with springboot, hibernate and restful API's with Mysql databse
 
 Modules & functinalities :-
+
+1. create account
 2. get account by id
 3. get all accounts list
 4. delete account
