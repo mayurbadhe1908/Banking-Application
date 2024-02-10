@@ -13,6 +13,6 @@ Modules & functionalities :-
 Tool's & Technologie's :-
 
 1. Springboot 3.0
-2. Hibernate
+2. Spring Data JPA
 3. MySql database
 4. Postman 
